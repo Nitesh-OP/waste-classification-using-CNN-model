@@ -17,7 +17,7 @@ A deep learning project developed during the **Edunet GreenTech & AI Internship*
 ---
 
 ## 📂 Dataset
-**Source**: [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data) by Sashaank Sekar  
+**Source**: [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data) by Nitesh Mhatre
 
 | Category      | Training Images | Test Images | Total  |
 |---------------|-----------------|-------------|--------|
